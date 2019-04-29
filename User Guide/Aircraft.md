@@ -30,7 +30,7 @@ When selecting pilots and passengers, names appearing in green mean the pilot is
 
 ## Launching and Landing Aircraft
 
-Press ![Launch Towplane Button](LaunchTP.png)or ![Launch Glider Button](LaunchG.png) to begin recording times when an aircraft takes off.
+Press ![Launch Towplane Button](launchTP.png) or ![Launch Glider Button](LaunchG.png) to begin recording times when an aircraft takes off.
 
 Press ![Land Towplane Button](LandTP.png) or  ![Land Glider Button](LandG.png) to finish recording times when an aircraft lands.
 
