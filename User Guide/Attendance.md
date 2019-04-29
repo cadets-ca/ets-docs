@@ -40,7 +40,7 @@ When a pilot leaves, swipe to sign them out. Signing pilots out allows the app t
 
 Filling out the ‘employment type’ is very important because this is used to calculate paid days as well as cadet attendance stats
 
-If an email address is added for a pilot, whenever the ‘Email Pilot Logs’ feature is used they will receive an email with their flight times, provided they had flown on the day in question. 
+If an email address is added for a pilot, whenever the ‘Email Pilot Logs’ feature is used they will receive an email with their flight times, provided they had flown on the day in question.
 
 The birthday field is not ‘mandatory’ but it is recommended to distinguish between pilots with identical names (eg. Smith)
 
