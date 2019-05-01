@@ -8,4 +8,4 @@ The guide is divided into three main segments, which correspond to the main work
 
 1. [Aircraft Area](Aircraft.md)
 
-1. [Timesheet / Record Area](Timesheet.md)
+1. [Timesheet / Record Area](Timesheets.md)
