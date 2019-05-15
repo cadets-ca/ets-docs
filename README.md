@@ -6,4 +6,4 @@
 
 ## Privacy Policy
 
-[Privacy Policy](User%20Guide/privacypolicy.md)
+[Privacy Policy](privacypolicy.md)
