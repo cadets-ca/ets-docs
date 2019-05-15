@@ -2,4 +2,8 @@
 
 ## User Guide
 
-[User Guide](User%20Guide/Intro.html)
+[User Guide](User%20Guide/Intro.md)
+
+## Privacy Policy
+
+[Privacy Policy](User%20Guide/privacypolicy.md)
