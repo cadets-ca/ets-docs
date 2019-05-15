@@ -1,8 +1,3 @@
----
-layout: page
-title: User Guide
----
-
 # ACGP Timesheets User Guide
 
 This guide will give a basic overview of how to use the ACGP Timesheets App
