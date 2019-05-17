@@ -15,9 +15,13 @@
 1. Apply the appropriate regional Apple ID to the iPad
 
     a. ATL
+    
     a. EST
+    
     a. CEN
+    
     a. NW
+    
     a. PAC
 
 1. Apply a lock screen passcode
