@@ -3,6 +3,7 @@
 ## Initial Setup
 
 1. Initiate the setup process. Use the following settings:
+
     a. Location Services: On
 
     b. Find My iPad: Enabled
@@ -11,11 +12,13 @@
 
     d. Diagnostics: Do not participate
 
-2. Apply the appropriate regional Apple ID to the iPad
+1. Apply the appropriate regional Apple ID to the iPad
 
-3. Apply a lock screen passcode
+    a. 
 
-4. Apply the lock screen background (no 'parralax') 
+1. Apply a lock screen passcode
+
+1. Apply the lock screen background (no 'parralax') 
 
     a. [Downlaod EN](https://github.com/cadets-ca/ets-docs/blob/master/Graphics/iPadBackground.jpg)
 
