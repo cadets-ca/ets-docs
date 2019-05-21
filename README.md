@@ -1,6 +1,6 @@
 ---
 published: true
-layout: "default-theme-wet-boew-en"
+layout: "theme-gcwu-fegc/default"
 permalink: "index-en.html"
 filename_root: "index"
 title: "Home page"
