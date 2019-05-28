@@ -11,6 +11,14 @@
     c. Siri: Disabled
 
     d. Diagnostics: Do not participate
+    
+    e. iOS updates: Install manually
+    
+    f. iCloud Keychain: Don't use iCloud Keychain
+    
+    g. Screen Time: enable
+    
+    h. Analytics: Don't Share
 
 1. Apply the appropriate regional Apple ID to the iPad
 
