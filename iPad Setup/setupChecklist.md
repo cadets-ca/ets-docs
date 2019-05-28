@@ -32,6 +32,10 @@
 
     b. [Download FR](https://github.com/cadets-ca/ets-docs/blob/master/Graphics/iPadBackground_FR.jpg)
 
+5. Enable Screen Time
+
+    a. Disable the possibility to log out the connected AppleID.
+
 ## App Installation
 
 1. Install the CCO ETS App from the App Store [Insert Link](Insert Link).
