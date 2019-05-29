@@ -36,13 +36,25 @@
 
 1. Apply the lock screen background (no 'parralax') 
 
-    a. [Downlaod EN](https://github.com/cadets-ca/ets-docs/blob/master/Graphics/iPadBackground.jpg)
+    a. [Download EN](https://github.com/cadets-ca/ets-docs/blob/master/Graphics/iPadBackground.jpg)
 
     b. [Download FR](https://github.com/cadets-ca/ets-docs/blob/master/Graphics/iPadBackground_FR.jpg)
 
 5. Enable Screen Time
 
     a. Disable the possibility to log out the connected AppleID.
+
+6. iCloud settings
+
+    a. Disable iCloud photo sync
+    
+    b. Enable Mail (and create @iCloud.com email account)
+    
+    c. enable iCloud Drive
+    
+    d. disable Messages
+    
+    e. disable iCloud Backup after iPad setup is done
 
 ## App Installation
 
