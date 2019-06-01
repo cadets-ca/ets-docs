@@ -11,6 +11,14 @@
     c. Siri: Disabled
 
     d. Diagnostics: Do not participate
+    
+    e. iOS updates: Install manually
+    
+    f. iCloud Keychain: Don't use iCloud Keychain
+    
+    g. Screen Time: enable
+    
+    h. Analytics: Don't Share
 
 1. Apply the appropriate regional Apple ID to the iPad
 
@@ -28,13 +36,31 @@
 
 1. Apply the lock screen background (no 'parralax') 
 
-    a. [Downlaod EN](https://github.com/cadets-ca/ets-docs/blob/master/Graphics/iPadBackground.jpg)
+    a. [Download EN](https://github.com/cadets-ca/ets-docs/blob/master/Graphics/iPadBackground.jpg)
 
     b. [Download FR](https://github.com/cadets-ca/ets-docs/blob/master/Graphics/iPadBackground_FR.jpg)
+
+5. Enable Screen Time
+
+    a. Disable the possibility to log out the connected AppleID.
+
+6. iCloud settings
+
+    a. Disable iCloud photo sync
+    
+    b. Enable Mail (and create @iCloud.com email account)
+    
+    c. enable iCloud Drive
+    
+    d. disable Messages
+    
+    e. disable iCloud Backup after iPad setup is done
 
 ## App Installation
 
 1. Install the CCO ETS App from the App Store [Insert Link](Insert Link).
+
+    a. Change the database region in the ETS settings in iOS (iOS settings -> Timesheets -> Region -> select the desired region)
 
 2. Retrieve the iCloud link for the ETS database by sharing it from the app and record it
 
