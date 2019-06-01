@@ -60,6 +60,8 @@
 
 1. Install the CCO ETS App from the App Store [Insert Link](Insert Link).
 
+    a. Change the database region in the ETS settings in iOS (iOS settings -> Timesheets -> Region -> select the desired region)
+
 2. Retrieve the iCloud link for the ETS database by sharing it from the app and record it
 
     a. Note: There should be one link per Apple ID.
