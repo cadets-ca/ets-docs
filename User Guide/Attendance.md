@@ -1,3 +1,5 @@
+[Attendance Area](Attendance.md) | [Aircraft Area](Aircraft.md) | [Timesheet / Record Area](Timesheets.md)
+
 # Attendance
 
 The attendance area is found on the left side of the app. It shares the same space as the ‘timesheet area’

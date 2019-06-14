@@ -2,7 +2,7 @@
 
 ## User Guide
 
-[User Guide](User%20Guide/Intro.md)
+[User Guide](User%20Guide/index.html)
 
 ## Privacy Policy
 
