@@ -57,3 +57,11 @@ The PIC time and TNI are color coded and will progressively turn yellow, orange 
 The TNI for the winch is approximate, since the app cannot know exactly how long the winch has been running. More accurate times can be manually entered.
 
 The ‘Apache counter’ and ‘Bandit counter’ appear during  student training. This only counts the number of student training flights done for students in that flight. This is similar to the ‘x-board’ used at many CFTCs. It does not count proficiency flights, fam flights, or anything else.
+
+## Adding Flight in the past
+
+### Preparing
+
+### Add the flight
+
+### Modify flight information
